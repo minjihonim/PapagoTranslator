@@ -1,16 +1,17 @@
 # PapagoTranslator
 파파고 AI 번역기 모델 개발
 
-# infra
+## infra
 - 번역기: NHN CLOUD AI 모델 파파고 translator
 - AWS LigthSail
 
-# Front-end 개발환경
+## Front-end 개발환경
 - vue.js 2.0 
 
-# Back-end 개발환경
+## Back-end 개발환경
 - springboot 2.7.17
 - java 11
 
-# 작업 내용
+## 작업 내용
 - 상업용 Papago 번역 API 를 활용한 번역 페이지 개발
+- Id 값과 키값은 고유 값으로 저장소에 노출되지 않도록 되어 있습니다.
